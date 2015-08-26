@@ -1278,7 +1278,7 @@ $ pm2 deploy <configuration_file> <environment> <command>
     prev[ious]           output previous release commit
     exec|run <cmd>       execute the given <cmd>
     list                 list previous deploy commits
-    [ref]                deploy to [ref], the "ref" setting, or latest tag
+    ref [ref]            deploy from [ref]
 ```
 
 ## Commands
